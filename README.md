@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá! Eu sou o Eduardo Tavares 👋
 
-<!--
-**dudstdev/dudstdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Full Stack apaixonado por criar soluções escaláveis e bem estruturadas. Estou sempre em busca de aprender mais sobre Arquitetura de Software e boas práticas no desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tecnologias e Habilidades
+
+- 📱 **Front-end:** TypeScript, React.js, Next.js
+- 💻 **Back-end:** TypeScript, Node.js, Nest.js
+- ⚙️ **Banco de Dados:** PostgreSQL, MongoDB, Redis
+- 🧱 **Arquitetura:** Clean Architecture, Hexagonal Architecture, DDD  
+
+---
+
+#### 📫 Vamos conversar!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Tavares-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudstdev)](https://www.linkedin.com/in/dudstdev)  
+[![Gmail Badge](https://img.shields.io/badge/-eduardot.developer@hotmail.com-00875f?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:eduardot.developer@hotmail.com)](mailto:eduardot.developer@hotmail.com)
+
+---
+
+✨ Sinta-se à vontade para explorar meus repositórios e me chamar para trocar uma ideia sobre tecnologia!
